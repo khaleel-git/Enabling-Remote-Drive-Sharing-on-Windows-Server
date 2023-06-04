@@ -8,7 +8,7 @@ To enable remote sharing and share a drive on your Windows computer, you can fol
 4. In the Properties window, go to the "Sharing" tab.
 5. Click on the "Advanced Sharing" button.
 6. Check the box that says "Share this folder."
-7. By default, the share name will be the drive letter followed by a "$" symbol (e.g., "C$"). You can change the share name if desired.
+7. By default, the share name will be the drive letter (e.g., "C"). You can change the share name if desired.
 8. Click on the "Permissions" button.
 9. In the Permissions window, you can assign the appropriate permissions for the shared drive. By default, the "Everyone" group has Read access. You can add specific users or groups and customize their access permissions as needed.
 10. Click "OK" to save the permissions.
@@ -20,7 +20,7 @@ At this point, the drive should be shared on your local network, and other compu
 To access the shared drive from another computer:
 
 1. Open File Explorer on the remote computer.
-2. In the address bar, enter the following in the format `\\computer_name\drive_letter$`, replacing "computer_name" with the name or IP address of the computer sharing the drive, and "drive_letter" with the letter assigned to the shared drive (e.g., `\\192.168.1.100\C$`).
+2. In the address bar, enter the following in the format `\\computer_name\drive_letter`, replacing "computer_name" with the name or IP address of the computer sharing the drive, and "drive_letter" with the letter assigned to the shared drive (e.g., `\\192.168.1.100\C`).
 3. Press Enter or click the arrow button next to the address bar.
 4. If prompted, enter the credentials of a user account on the computer sharing the drive. This could be the username and password of an account that has access to the shared drive.
 5. Once authenticated, you should be able to access the shared drive and its contents from the remote computer.
