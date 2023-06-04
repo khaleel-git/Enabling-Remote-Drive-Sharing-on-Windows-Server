@@ -1,6 +1,8 @@
 # Guide: Enabling Remote Drive Sharing on Windows for Network Access
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SjYUv1ytscE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/SjYUv1ytscE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 To enable remote sharing and share a drive on your Windows computer, you can follow these steps:
 
